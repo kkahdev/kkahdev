@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A86FF&center=true&vCenter=true&width=435&lines=kkah@fedora%3A~%24+sudo+./whoami;UID%3A+1000+(kkah);GID%3A+1000+(developers);Groups%3A+wheel%2C+docker%2C+git" alt="Typing SVG" />
 </div>
+
 <br />
+
 [user]
 username = "kkah"
 role     = "Full Stack Software Engineer"
