@@ -2,10 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A86FF&center=true&vCenter=true&width=435&lines=kkah@fedora%3A~%24+sudo+./whoami;UID%3A+1000+(kkah);GID%3A+1000+(developers);Groups%3A+wheel%2C+docker%2C+git" alt="Typing SVG" />
 </div>
-
 <br />
-
-```toml
 [user]
 username = "kkah"
 role     = "Full Stack Software Engineer"
@@ -21,7 +18,7 @@ status   = "I sometimes break things that did work until I messed around with th
   
 
 <br />
-<span style="color: #3A86FF; font-family: monospace;">>_ Tech_Stack</span>
+>_ Tech_Stack
 <p align="left">
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Java-3A86FF?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -44,7 +41,7 @@ status   = "I sometimes break things that did work until I messed around with th
 <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=3A86FF" alt="Linux"/>
 </p>
 <br />
-<span style="color: #3A86FF; font-family: monospace;">>_ git_status</span>
+>_ git_status
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kkahdev&show_icons=true&theme=transparent&hide_border=true&title_color=3A86FF&icon_color=3A86FF&text_color=888888" height="130" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkahdev&layout=compact&theme=transparent&hide_border=true&title_color=3A86FF&text_color=888888&exclude_repo=kkahdev" height="130" alt="languages graph" />
